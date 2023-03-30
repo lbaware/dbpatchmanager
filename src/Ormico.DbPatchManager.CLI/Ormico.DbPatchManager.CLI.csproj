@@ -17,6 +17,7 @@
     <Version>2.1.2</Version>
     <PackageIcon>dbpatch-manager-profile.png</PackageIcon>
     <Description>Command Line Interface for Database Change managment designed for multi-dev/multi-branch.</Description>
+    <LangVersion>10</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
